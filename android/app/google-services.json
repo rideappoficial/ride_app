@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "692991520427",
+    "project_id": "rideapp-ca84d",
+    "storage_bucket": "rideapp-ca84d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692991520427:android:eabe4039a2e70163a591ee",
+        "android_client_info": {
+          "package_name": "com.example.ride_guia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692991520427-cssfbdd73q32khsjp1rnclu9cadko86f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwwYA4qWOUNCVbyT_QVn0mxV6oVss5YwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692991520427-cssfbdd73q32khsjp1rnclu9cadko86f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "692991520427-qtlcg0kfq8kl4sj2rru2p41hfi9u0nv7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rideGuiaCad"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692991520427:android:9e185e33e84dbd14a591ee",
+        "android_client_info": {
+          "package_name": "com.example.ride_guia_cad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692991520427-cssfbdd73q32khsjp1rnclu9cadko86f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwwYA4qWOUNCVbyT_QVn0mxV6oVss5YwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692991520427-cssfbdd73q32khsjp1rnclu9cadko86f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "692991520427-qtlcg0kfq8kl4sj2rru2p41hfi9u0nv7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rideGuiaCad"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
